@@ -14,8 +14,8 @@ endif::[]
 
 == Sample code
 
-{repoURL}/contrast_stretch/contrast_stretch.m[Implementation of algorithm]
-{repoURL}/contrast_stretch/contrast_stretch_function.m[Using built-in functions]
+* {repoURL}/contrast_stretch/contrast_stretch.m[Implementation of algorithm]
+* {repoURL}/contrast_stretch/contrast_stretch_function.m[Using built-in functions]
 
 == Sample output
 
