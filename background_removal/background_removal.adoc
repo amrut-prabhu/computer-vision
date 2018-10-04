@@ -21,4 +21,4 @@ endif::[]
 
 
 .Sample result of the implemented Background Removal algorithm
-image::background.jpg[width="700"]
+image::background.png[width="700"]
