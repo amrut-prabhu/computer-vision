@@ -1,4 +1,4 @@
-= Edge Detection
+= Background Removal
 
 :imagesDir: images
 :stylesDir: stylesheets
@@ -14,10 +14,10 @@ endif::[]
 
 == Sample code
 
-* {repoURL}/edge_detection/edge_detection.m[Implementation of Sobel edge detector]
-* {repoURL}/edge_detection/edge_detection_function.m[Using built-in functions]
+* {repoURL}/background_removal/background.m[Implementation using averaging algorithm]
+* {repoURL}/background_removal/background_function.m[Using built-in functions]
 
 == Sample output
 
-.Sample result of the implemented Sobel Edge Detector
-image::carmanBox_sobel_edge_detection.jpg[width="700"]
+.Sample result of the implemented Histogram Equilization function.
+image::background.jpg[width="700"]
