@@ -20,4 +20,4 @@ endif::[]
 == Sample output
 
 Sample results of the implemented Contrast Stretch function.
-image::foggy_carpark_gray_contrast_stretch_results.jpg[width="700"]
+image::foggy_carpark_gray_histeq_function.jpg[width="700"]
