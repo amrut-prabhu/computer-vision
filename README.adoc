@@ -1,7 +1,6 @@
 = Computer Vision and Pattern Recognition
-
 :toc:
-:toc-title:
+:toc-title: Contents
 :toc-placement: preamble
 :sectnums:
 :imagesDir: images
@@ -24,6 +23,7 @@ This repository is a collection of basic computer vision and image processing te
 
 {repoURL}/histogram_equilization/histogram_equilization.adoc[*Histogram Equilization*]: Image processing technique
 
-{repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
-+
-{repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]
+#Code
+. {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
+
+. {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]

@@ -21,4 +21,4 @@ endif::[]
 # Sample output
 
 .Sample results of the implemented Histogram Equilization
-image::histogram_equilization/foggy_carpark_gray_histeq_function.jpg[width="400"]
+image::foggy_carpark_gray_histeq_function.jpg[width="400"]
