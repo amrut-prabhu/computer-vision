@@ -12,12 +12,12 @@ ifdef::env-github[]
 endif::[]
 :repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
 
-# Sample code
+== Sample code
 
 {repoURL}/contrast_stretch/contrast_stretch.m[Implementation of algorithm]
 {repoURL}/contrast_stretch/contrast_stretch_function.m[Using built-in functions]
 
-# Sample output
+== Sample output
 
 Sample results of the implemented Histogram Equilization
-image::foggy_carpark_gray_contrast_stretch_comparison.jpg[width="700"]
+image::foggy_carpark_gray_cropped_contrast_stretch_comparison.jpg[width="700"]
