@@ -14,7 +14,7 @@ ifdef::env-github[]
 :important-caption: :warning:
 :format-caption:
 endif::[]
-:repoURL: https://github.com/amrut-prabhu/computer-vision
+:repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
 
 == About
 
@@ -22,7 +22,8 @@ This repository is a collection of basic computer vision and image processing te
 
 == Histogram Equilization
 
-{repoURL}/histogram_equilization/histogram_equilization.md[*Histogram Equilization*]: Image processing technique
+{repoURL}/histogram_equilization/histogram_equilization.adoc[*Histogram Equilization*]: Image processing technique
 
 {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
++
 {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]

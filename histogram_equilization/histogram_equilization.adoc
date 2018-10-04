@@ -1,8 +1,5 @@
-= Computer Vision and Pattern Recognition
+= Histogram Equilization
 
-:toc:
-:toc-title:
-:toc-placement: preamble
 :sectnums:
 :imagesDir: images
 :stylesDir: stylesheets
@@ -14,9 +11,7 @@ ifdef::env-github[]
 :important-caption: :warning:
 :format-caption:
 endif::[]
-:repoURL: https://github.com/amrut-prabhu/computer-vision
-
-== Histogram Equilization
+:repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
 
 # Sample code
 
