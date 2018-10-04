@@ -1,0 +1,26 @@
+= Background Foreground Separation
+
+:imagesDir: images
+:stylesDir: stylesheets
+:xrefstyle: full
+:experimental:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :warning:
+:format-caption:
+endif::[]
+:repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
+
+Foreground detection and Background subtraction is a major tasks in Computer Vision and Image processing.
+
+== Sample code
+
+Algorithm that calculates differences between consecutive frames of a video (`traffic.mp4`) and subsequently counts the number of vehicles that cross the bottom frame.
+
+* {repoURL}/background_foreground_separation/counting_vehicles.m[Implementation of Sobel edge detector]
+
+== Sample output
+
+.Sample result of the implemented Counting Vehicles algorithm
+image::counting_vehicles_window_3.jpg[width="500"]
