@@ -1,7 +1,7 @@
 = Computer Vision and Pattern Recognition
 :toc:
 :toc-title: Contents
-:toc-placement: preamble
+:sectnums:
 :imagesDir: images
 :stylesDir: stylesheets
 :xrefstyle: full
@@ -14,7 +14,7 @@ ifdef::env-github[]
 endif::[]
 :repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
 
-== About
+== About this repository
 
 This repository is a collection of basic computer vision and image processing techniques. The implementations of the algorithms are in MATLAB.
 
@@ -27,3 +27,13 @@ See more details {repoURL}/histogram_equilization/histogram_equilization.adoc[he
 
 * {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
 * {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]
+
+== Contrast Stretching
+
+Image processing technique.
+See more details {repoURL}/contrast_stretch/contrast_stretch.adoc[here].
+
+*Code*
+
+* {repoURL}/contrast_stretch/contrast_stretch.m[Implementation of algorithm]
+* {repoURL}/contrast_stretch/contrast_stretch_function.m[Using built-in functions]

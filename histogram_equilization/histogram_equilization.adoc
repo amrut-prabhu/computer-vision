@@ -1,6 +1,5 @@
 = Histogram Equilization
 
-:sectnums:
 :imagesDir: images
 :stylesDir: stylesheets
 :xrefstyle: full
@@ -21,4 +20,4 @@ endif::[]
 == Sample output
 
 .Sample results of the implemented Histogram Equilization
-image::foggy_carpark_gray_histeq_function.jpg[width="400"]
+image::foggy_carpark_gray_histeq_function.jpg[width="700"]

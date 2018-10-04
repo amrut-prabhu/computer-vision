@@ -1,6 +1,5 @@
 = Contrast Stretching
 
-:sectnums:
 :imagesDir: images
 :stylesDir: stylesheets
 :xrefstyle: full
@@ -20,5 +19,5 @@ endif::[]
 
 # Sample output
 
-.Sample results of the implemented Histogram Equilization
-image::foggy_carpark_gray_cropped_contrast_stretch_comparison.jpg[width="400"]
+Sample results of the implemented Histogram Equilization
+image::foggy_carpark_gray_cropped_contrast_stretch_comparison.jpg[width="700"]
