@@ -23,4 +23,4 @@ Algorithm that calculates differences between consecutive frames of a video (`tr
 == Sample output
 
 .Sample result of the implemented Counting Vehicles algorithm
-image::counting_vehicles_window_3.jpg[width="500"]
+image::counting_vehicles_window_3.png[width="500"]
