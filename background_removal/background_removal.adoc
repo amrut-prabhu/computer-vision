@@ -1,0 +1,23 @@
+= Background Removal
+
+:imagesDir: images
+:stylesDir: stylesheets
+:xrefstyle: full
+:experimental:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :warning:
+:format-caption:
+endif::[]
+:repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
+
+== Sample code
+
+* {repoURL}/background_removal/background.m[Implementation using averaging algorithm]
+* {repoURL}/background_removal/background_function.m[Using built-in functions]
+
+== Sample output
+
+.Sample result of the implemented Background Removal algorithm
+image::background.jpg[width="700"]

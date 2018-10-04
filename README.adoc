@@ -46,4 +46,35 @@ See more details {repoURL}/edge_detection/edge_detection.adoc[here].
 *Code*
 
 * {repoURL}/edge_detection/edge_detection.m[Implementation of Sobel edge detector]
-* {repoURL}/edge_detection/edge_detection.m[Using built-in functions]
+* {repoURL}/edge_detection/edge_detection_function.m[Using built-in functions]
+
+== Background Removal
+
+Image processing technique.
+See more details {repoURL}/background_removal/background_removal.adoc[here].
+
+*Code*
+
+* {repoURL}/background_removal/background.m[Implementation of Sobel edge detector]
+* {repoURL}/background_removal/background_function.m[Using built-in functions]
+=======
+* {repoURL}/edge_detection/edge_detection_function.m[Using built-in functions]
+
+== Background Removal
+
+Image processing technique.
+See more details {repoURL}/background_removal/background_removal.adoc[here].
+
+*Code*
+
+* {repoURL}/background_removal/background.m[Implementation of Sobel edge detector]
+* {repoURL}/background_removal/background_function.m[Using built-in functions]
+
+== Background Foreground Separation
+
+Foreground detection and Background subtraction is a major tasks in Computer Vision and Image processing.
+See more details {repoURL}/background_foreground_separation/background_foreground_separation.adoc[here].
+
+*Code*
+
+* {repoURL}/background_foreground_separation/counting_vehicles.m[Implementation of Sobel edge detector]
