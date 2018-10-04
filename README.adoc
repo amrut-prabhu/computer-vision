@@ -57,7 +57,7 @@ See more details {repoURL}/background_removal/background_removal.adoc[here].
 
 * {repoURL}/background_removal/background.m[Implementation of Sobel edge detector]
 * {repoURL}/background_removal/background_function.m[Using built-in functions]
-=======
+
 * {repoURL}/edge_detection/edge_detection_function.m[Using built-in functions]
 
 == Background Removal

@@ -19,5 +19,5 @@ endif::[]
 
 == Sample output
 
-.Sample results of the implemented Contrast Stretching
+.Sample result of the implemented Contrast Stretching
 image::foggy_carpark_gray_contrast_stretch_results.jpg[width="700"]
