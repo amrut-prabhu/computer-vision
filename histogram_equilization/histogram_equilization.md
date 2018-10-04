@@ -16,13 +16,14 @@ ifdef::env-github[]
 endif::[]
 :repoURL: https://github.com/amrut-prabhu/computer-vision
 
-== About
-
-This repository is a collection of basic computer vision and image processing techniques. The implementations of the algorithms are in MATLAB.
-
 == Histogram Equilization
 
-{repoURL}/histogram_equilization/histogram_equilization.md[*Histogram Equilization*]: Image processing technique
+# Sample code
 
 {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
 {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]
+
+# Sample output
+
+.Sample results of the implemented Histogram Equilization
+image::histogram_equilization/foggy_carpark_gray_histeq_function.jpg[width="400"]
