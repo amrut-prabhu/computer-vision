@@ -19,5 +19,5 @@ endif::[]
 
 == Sample output
 
-.Sample results of the implemented Histogram Equilization function.
+.Sample result of the implemented Histogram Equilization function.
 image::foggy_carpark_gray_histeq_function.jpg[width="700"]
