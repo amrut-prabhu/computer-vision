@@ -1,0 +1,24 @@
+= Contrast Stretching
+
+:sectnums:
+:imagesDir: images
+:stylesDir: stylesheets
+:xrefstyle: full
+:experimental:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :warning:
+:format-caption:
+endif::[]
+:repoURL: https://github.com/amrut-prabhu/computer-vision/blob/master
+
+# Sample code
+
+{repoURL}/contrast_stretch/contrast_stretch.m[Implementation of algorithm]
+{repoURL}/contrast_stretch/contrast_stretch_function.m[Using built-in functions]
+
+# Sample output
+
+.Sample results of the implemented Histogram Equilization
+image::contrast_stretch/foggy_carpark_gray_cropped_contrast_stretch_comparison.jpg[width="400"]
