@@ -2,7 +2,6 @@
 :toc:
 :toc-title: Contents
 :toc-placement: preamble
-:sectnums:
 :imagesDir: images
 :stylesDir: stylesheets
 :xrefstyle: full
@@ -21,9 +20,10 @@ This repository is a collection of basic computer vision and image processing te
 
 == Histogram Equilization
 
-{repoURL}/histogram_equilization/histogram_equilization.adoc[*Histogram Equilization*]: Image processing technique
+Image processing technique.
+See more details {repoURL}/histogram_equilization/histogram_equilization.adoc[here].
 
-#Code
-. {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
+*Code*
 
-. {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]
+* {repoURL}/histogram_equilization/histogram_eq.m[Implementation of algorithm]
+* {repoURL}/histogram_equilization/histogram_eq_function.m[Using built-in functions]
